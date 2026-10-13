@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://fulcrum.hanyu.technology/</loc>
+        <lastmod>2026-10-12</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fulcrum.hanyu.technology/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://fulcrum.hanyu.technology/zh/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fulcrum.hanyu.technology/"/>
+    </url>
+    <url>
+        <loc>https://fulcrum.hanyu.technology/zh/</loc>
+        <lastmod>2026-10-12</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="https://fulcrum.hanyu.technology/"/>
+        <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://fulcrum.hanyu.technology/zh/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fulcrum.hanyu.technology/"/>
+    </url>
+    <url>
+        <loc>https://fulcrum.hanyu.technology/Privacy%20Policy.html</loc>
+        <lastmod>2026-10-12</lastmod>
+    </url>
+    <url>
+        <loc>https://fulcrum.hanyu.technology/Terms%20%26%20Conditions.html</loc>
+        <lastmod>2026-10-12</lastmod>
+    </url>
+</urlset>
