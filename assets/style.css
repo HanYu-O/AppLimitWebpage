@@ -477,6 +477,14 @@ details p {
     opacity: 0.75;
 }
 
+.copy-tip {
+    color: var(--cyan);
+}
+
+.copy-tip:empty {
+    display: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
     html {
         scroll-behavior: auto;

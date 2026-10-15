@@ -283,7 +283,8 @@
                 <nav class="footer-links" aria-label="Footer">
                     <a href="Privacy%20Policy.html">Privacy Policy</a>
                     <a href="Terms%20%26%20Conditions.html">Terms of Use</a>
-                    <a href="mailto:hanyu0929@gmail.com">Contact</a>
+                    <a href="mailto:hanyu0929@gmail.com" class="copy-email" data-email="hanyu0929@gmail.com" data-copied="Email copied">Contact: hanyu0929@gmail.com</a>
+                    <span class="copy-tip" role="status" aria-live="polite"></span>
                     <a href="zh/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
                 </nav>
             </div>
@@ -291,6 +292,7 @@
         </div>
     </footer>
 
+    <script src="assets/site.js" defer></script>
     <script>
         // 中文系统语言的访客(含大陆用户)使用 cn 区链接,否则苹果会把非本区链接重定向到 App Store 首页
         if (/^zh/i.test(navigator.language || '')) {
